@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 ########################################
-# phenomenal waste of my precious time #
+# @yishak                              #
 ########################################
 from tkinter import *
 import copy
